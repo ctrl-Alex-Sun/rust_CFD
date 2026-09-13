@@ -1,3 +1,2 @@
 # rust_CFD
-An ultrafast rust CFD project.\n
-no vibes #cavemencoding
+An ultrafast rust CFD project with #cavemancoding.
