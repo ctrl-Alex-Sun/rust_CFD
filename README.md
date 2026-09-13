@@ -1,3 +1,3 @@
 # rust_CFD
-An ultrafast rust CFD project.
-Handmade with love from Texas.
+An ultrafast rust CFD project.\n
+no vibes #cavemencoding
